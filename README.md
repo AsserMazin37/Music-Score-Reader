@@ -8,7 +8,11 @@ the notes, and plays the musical piece. For this project, our goal is to develop
 parse music sheet images, produce the associated annotation, and implement a playback 
 mechanism for the parsed musical notes.
 
-This project includes:
+# This project includes:
 1- Parsing horizontally aligned music sheets.
+
 2- Generating ABC annotation.
+
 3- Music playback.
+
+Matlab is used as the programming language for this project.
